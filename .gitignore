@@ -5,3 +5,4 @@ Sudoku.iml
 out
 /bin
 .settings
+./gradle
