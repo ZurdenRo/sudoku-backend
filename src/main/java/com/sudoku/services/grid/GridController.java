@@ -1,4 +1,4 @@
-package com.sudoku.grid;
+package com.sudoku.services.grid;
 
 
 
