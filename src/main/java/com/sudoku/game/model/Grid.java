@@ -1,4 +1,4 @@
-package com.example.game.model;
+package com.sudoku.game.model;
 
 
 

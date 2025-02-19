@@ -1,8 +1,8 @@
-package com.example.grid;
+package com.sudoku.grid;
 
 
 
-import com.example.game.pattern.factory.IGrid;
+import com.sudoku.game.pattern.factory.IGrid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

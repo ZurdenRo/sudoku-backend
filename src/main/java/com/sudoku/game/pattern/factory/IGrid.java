@@ -1,4 +1,4 @@
-package com.example.game.pattern.factory;
+package com.sudoku.game.pattern.factory;
 
 public interface IGrid{
 

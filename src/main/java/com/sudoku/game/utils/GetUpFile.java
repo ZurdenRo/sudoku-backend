@@ -1,6 +1,6 @@
-package com.example.game.utils;
+package com.sudoku.game.utils;
 
-import com.example.game.model.Cell;
+import com.sudoku.game.model.Cell;
 
 import java.io.File;
 import java.io.IOException;

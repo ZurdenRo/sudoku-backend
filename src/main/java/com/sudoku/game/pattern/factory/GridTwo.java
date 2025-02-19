@@ -1,7 +1,7 @@
-package com.example.game.pattern.factory;
+package com.sudoku.game.pattern.factory;
 
-import com.example.game.model.Grid;
-import com.example.game.model.Cell;
+import com.sudoku.game.model.Grid;
+import com.sudoku.game.model.Cell;
 
 public class GridTwo implements IGrid{
 

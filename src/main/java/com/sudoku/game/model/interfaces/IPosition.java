@@ -1,4 +1,4 @@
-package com.example.game.model.interfaces;
+package com.sudoku.game.model.interfaces;
 
 public interface IPosition{
 

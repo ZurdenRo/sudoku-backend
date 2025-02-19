@@ -3,6 +3,10 @@ plugins {
     id 'maven-publish'
 }
 
+group = 'com.my-sudoku'
+version = '1.0-SNAPSHOT'
+description = 'Backend Sudoku'
+
 repositories {
     mavenLocal()
     maven {
@@ -15,9 +19,6 @@ dependencies {
     testImplementation libs.org.springframework.boot.spring.boot.starter.test
 }
 
-group = 'com.example'
-version = '1.0-SNAPSHOT'
-description = 'Backend Sudoku'
 java.sourceCompatibility = JavaVersion.VERSION_1_8
 
 publishing {

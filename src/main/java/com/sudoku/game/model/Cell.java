@@ -1,6 +1,6 @@
-package com.example.game.model;
+package com.sudoku.game.model;
 
-import com.example.game.model.interfaces.IPosition;
+import com.sudoku.game.model.interfaces.IPosition;
 
 import java.util.ArrayList;
 import java.util.Random;
