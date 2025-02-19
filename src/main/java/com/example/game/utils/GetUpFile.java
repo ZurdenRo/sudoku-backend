@@ -10,7 +10,7 @@ import java.util.List;
 public class GetUpFile{
 
     public static void upFile(Cell[][] cOne, Cell[][] cTwo, Cell[][] cThree, Cell[][] cFour, Cell[][] fiv, Cell[][] six, Cell[][] sev, Cell[][] eight, Cell[][] nine) throws IOException{
-        List<String> ls = Files.readAllLines(new File("src/main/java/development/resources/three.csv").toPath());
+        List<String> ls = Files.readAllLines(new File("src/main/java/resources/three.csv").toPath());
         int i = 0;
         boolean canBreak = false;
         for(String rec : ls){

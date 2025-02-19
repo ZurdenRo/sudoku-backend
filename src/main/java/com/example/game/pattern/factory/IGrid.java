@@ -1,4 +1,4 @@
-package com.example.game.designPattern.factory;
+package com.example.game.pattern.factory;
 
 public interface IGrid{
 

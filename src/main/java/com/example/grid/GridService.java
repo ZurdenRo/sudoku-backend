@@ -1,7 +1,7 @@
 package com.example.grid;
 
-import com.example.game.designPattern.factory.GridFactory;
-import com.example.game.designPattern.factory.IGrid;
+import com.example.game.pattern.factory.GridFactory;
+import com.example.game.pattern.factory.IGrid;
 import org.springframework.stereotype.Service;
 
 @Service

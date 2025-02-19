@@ -2,7 +2,7 @@ package com.example.grid;
 
 
 
-import com.example.game.designPattern.factory.IGrid;
+import com.example.game.pattern.factory.IGrid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

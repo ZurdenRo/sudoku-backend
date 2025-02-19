@@ -1,4 +1,4 @@
-package com.example.game.designPattern.factory;
+package com.example.game.pattern.factory;
 
 import com.example.game.model.Cell;
 import com.example.game.model.Grid;
